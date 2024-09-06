@@ -12,7 +12,7 @@ The Luhn Validator is a simple application that uses Luhn's algorithm to validat
 To use the Luhn Validator, you can either run the executable file or use the python source code from the repo.
 
 ### Running the Executable
-1. Download the `luhnvalidator.exe` executable file from the [releases page](https://github.com/LeRubix/LuhnValidator/releases/latest).
+1. Download the `Luhn Validator.zip` executable file from the [releases page](https://github.com/LeRubix/LuhnValidator/releases/latest).
 2. Run the executable to launch the application.
 3. Enter a card number and click "Validate" to check its validity.
 
